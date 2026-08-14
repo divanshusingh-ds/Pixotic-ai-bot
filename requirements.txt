@@ -1,0 +1,26 @@
+# Core Libraries
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-chroma>=0.1.0
+langchain-huggingface>=0.1.0
+langchain-text-splitters>=0.3.0
+langchain-google-genai>=2.0.0
+langgraph>=0.2.0
+
+# Document Processing
+pypdf>=4.0.0
+python-docx>=1.1.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# AI/ML
+sentence-transformers>=2.2.0
+torch>=2.0.0
+
+# Telegram Bot
+python-telegram-bot>=20.0
+python-dotenv>=1.0.0
+
+# Utilities
+requests>=2.31.0
+chromadb>=0.5.0
