@@ -1,5 +1,40 @@
 # 🤖 Pixotic AI Assistant
 
+# 🤖 PIXOTIC AI ASSISTANT
+
+<p align="center">
+  <img src="./pixotic.png" alt="Pixotic AI Assistant" width="900">
+</p>
+
+<p align="center">
+  <strong>Your Personal AI Assistant</strong>
+</p>
+
+<p align="center">
+  🤖 Gemini AI &nbsp; • &nbsp;
+  🧠 Memory &nbsp; • &nbsp;
+  📚 RAG &nbsp; • &nbsp;
+  🎬 Media &nbsp; • &nbsp;
+  📱 Telegram
+</p>
+
+---
+
+## 🎬 Pixotic Introduction
+
+<p align="center">
+  <video width="900" controls>
+    <source src="./pixoticintro.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+<p align="center">
+  <strong>🎥 Watch the Pixotic Introduction</strong>
+</p>
+
+---
+
 <p align="center">
   <strong>Your Personal AI Assistant</strong>
 </p>
