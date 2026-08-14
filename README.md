@@ -1,5 +1,3 @@
-# 🤖 Pixotic AI Assistant
-
 # 🤖 PIXOTIC AI ASSISTANT
 
 <p align="center">
