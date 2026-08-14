@@ -1,47 +1,69 @@
-<!-- Banner -->
+# 🤖 PIXOTIC AI ASSISTANT
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg" alt="Python">
-  <img src="https://img.shields.io/badge/Telegram-Bot-blue.svg" alt="Telegram">
-  <img src="https://img.shields.io/badge/Gemini-AI-orange.svg" alt="Gemini">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
+  <img src="assets/pixotic.png" alt="Pixotic AI Assistant" width="900">
 </p>
 
-<h1 align="center">🧠 PIXOTIC AI - Telegram Assistant</h1>
-
 <p align="center">
-  <b>🤖 A friendly, intelligent Telegram AI assistant powered by Google Gemini</b>
+  <strong>Your Personal AI Assistant — Built with Python, Gemini & Telegram</strong>
 </p>
 
----
-
-## 🌟 Features
-
-| Feature | Description | Status |
-|---------|-------------|--------|
-| 💬 **AI Chat** | Natural conversations with Gemini AI | ✅ |
-| 🖼️ **Media Display** | Show images, GIFs, and PDFs | ✅ |
-| 🧠 **Memory System** | Remembers user preferences | ✅ |
-| 🌤️ **Weather** | Real-time weather updates | ✅ |
-| 🔍 **Web Search** | Search the internet | ✅ |
-| ✅ **To-Do List** | Manage your tasks | ✅ |
-| ⏰ **Reminders** | Set time-based reminders | ✅ |
-| 📹 **YouTube Summary** | Summarize videos | ✅ |
-| 📱 **QR Code** | Generate QR codes instantly | ✅ |
-
----
-
-## 📸 Screenshots
-
 <p align="center">
-  <img src="https://via.placeholder.com/400x200?text=Chat+with+Pixotic" alt="Chat" width="400">
-  <img src="https://via.placeholder.com/400x200?text=Media+Display" alt="Media" width="400">
+  🧠 Memory • 🤖 AI • 📚 RAG • 🖼️ Media • 🎬 GIFs • 📱 Telegram
 </p>
 
 ---
 
-## 🚀 Quick Start
+## 🎬 Pixotic Introduction
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/divanshusingh-ds/Pixotic-ai-bot.git
-cd Pixotic-ai-bot
+<p align="center">
+  <a href="./pixoticintro.mp4">
+    <img src="assets/pixotic-intro-thumbnail.png"
+         alt="Watch Pixotic Introduction"
+         width="850">
+  </a>
+</p>
+
+<p align="center">
+  <strong>▶️ Click the preview to watch the Pixotic introduction</strong>
+</p>
+
+---
+
+## ✨ What is Pixotic?
+
+**Pixotic** is a personal AI assistant designed to go beyond a simple chatbot.
+
+It combines AI conversation, personal memory, document understanding and
+personal media into one Telegram-based assistant.
+
+Pixotic is designed to understand your conversations, remember useful
+information, search your personal documents and respond with relevant
+images, GIFs and other media.
+
+---
+
+## 🚀 Features
+
+| Feature | Description |
+|---|---|
+| 🤖 AI Chat | Natural conversations powered by Google Gemini |
+| 🧠 Memory | Remember useful personal information |
+| 📚 RAG | Search and retrieve information from your documents |
+| 📄 CV Understanding | Ask questions about your CV and documents |
+| 🖼️ Image Library | Access images stored in your personal library |
+| 🎬 GIF Library | Send relevant GIFs from your collection |
+| 🐱🐭 Favorite Cartoon | Personalized Tom & Jerry responses |
+| 💬 Multilingual | English, Hindi & Hinglish conversations |
+| 📱 Telegram | Use Pixotic directly through Telegram |
+
+---
+
+## 🧠 Personal Memory
+
+Pixotic can store information that you explicitly ask it to remember.
+
+Example:
+
+```text
+/remember My favorite cartoon is Tom and Jerry
